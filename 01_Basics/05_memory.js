@@ -26,6 +26,3 @@ userTwo.email = "squishi4361@gmail.com"
 console.log(userOne);
 console.log(userTwo);
 // here, since object is a non primitive data type & the value of email is changed for userTwo , hence the original value will also change.
-
-
-
