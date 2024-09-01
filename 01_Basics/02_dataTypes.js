@@ -18,3 +18,26 @@ console.log(3+3);
 
 console.log(typeof null);// type of null is OBJECT
 console.log(typeof undefined);
+
+
+
+// Primitive
+
+// 7 types : String , Number , Boolean , null , undefined , Symbol , BigInt
+
+// Non-Primitive
+
+// Arrays , Objects , Functions
+
+const heroes = ["Superman","Spiderman","IronMan"]
+let myObj = {
+    name : "Ishika",
+    age : 21,
+}
+console.log(heroes);
+console.log(myObj);
+
+
+const myFunction = function(){
+    console.log("Hello World");
+}
